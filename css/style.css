@@ -59,7 +59,7 @@ textarea::placeholder {
 	position: absolute;
 	top: 30px;
 	left: calc(-100% - 25px);
-	background-color: #D62E4C;
+	background-color: #FF002C;
 }
 .center-title {
 	font-size: 42px;
@@ -72,7 +72,7 @@ textarea::placeholder {
 	content: '';
 	height: 1px;
 	width: 70px;
-	background-color: #D62E4C;
+	background-color: #FF002C;
 	display: block;
 	margin: 15px auto 0 auto;
 }
@@ -92,7 +92,7 @@ textarea::placeholder {
 }
 
 .def-btn {
-	background-color: #D62E4C;
+	background-color: #FF002C;
 	padding: 15px 45px;
 	display: inline-block;
 	transition: background-color 0.35s ease;
@@ -105,7 +105,7 @@ textarea::placeholder {
 
 /* Header START */
 .header-top {
-	background-color: #18353E;
+	background-color: #00043A;
 	color: #fff;
 	padding: 18px 0 55px 0;
 	font-size: 14px;
@@ -150,7 +150,7 @@ textarea::placeholder {
 }
 .header-bottom-row {
 	display: flex;
-	background-color: #D62E4C;
+	background-color: #FF002C;
 	color: #fff;
 	box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.11);
 }
@@ -215,7 +215,7 @@ textarea::placeholder {
 	transform: none;
 }
 .go-up a {
-	background-color: #D62E4C;
+	background-color: #FF002C;
 	width: 60px;
 	height: 60px;
 	display: flex;
@@ -332,7 +332,7 @@ textarea::placeholder {
 	opacity: 1;
 }
 .swiper-pagination-bullet-active {
-	background-color: #D62E4C;
+	background-color: #FF002C;
 }
 .swiper-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet, 
 .swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
@@ -368,7 +368,7 @@ textarea::placeholder {
 
 /* Numbers START */
 .s-numbers {
-	background-color: #18353E;
+	background-color: #00043A;
 	color: #fff;
 	padding: 72px 0;
 }
@@ -470,7 +470,7 @@ textarea::placeholder {
 	display: block;
 	height: 1px;
 	width: 70px;
-	background-color: #D62E4C;
+	background-color: #FF002C;
 	margin: 20px auto 0 auto;
 }
 .modal-form input {
@@ -485,7 +485,7 @@ textarea::placeholder {
 	margin-bottom: 24px;
 }
 .modal-form .form-button {
-	background-color: #D62E4C;
+	background-color: #FF002C;
 	color: #fff;
 	max-width: 285px;
 	width: 100%;
@@ -988,7 +988,7 @@ textarea::placeholder {
 	content: '';
 	width: 100%;
 	height: 10px;
-	background-color: #D62E4C;
+	background-color: #FF002C;
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -1018,7 +1018,7 @@ textarea::placeholder {
 
 /* Footer START */
 .site-footer {
-	background-color: #1C2835;
+	background-color: #00043A;
 	color: #fff;
 	font-size: 14px;
 }
@@ -1436,7 +1436,7 @@ textarea::placeholder {
 	}
 
 	.header-mobile-wrap {
-		background-color: #18353E;
+		background-color: #00043A;
 		color: #fff;
 		padding: 30px 20px;
 		text-align: center;
@@ -1574,7 +1574,7 @@ textarea::placeholder {
 		content: '';
 		height: 1px;
 		width: 50px;
-		background-color: #D62E4C;
+		background-color: #FF002C;
 		display: block;
 		margin: 20px auto 0 auto;
 	}
