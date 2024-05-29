@@ -142,7 +142,7 @@ textarea::placeholder {
 .header-bottom {
 	position: absolute;
 	z-index: 2;
-	top: 60px;
+	top: 30px;
 	left: 50%;
 	transform: translateX(-50%);
 	max-width: 1200px;
@@ -405,6 +405,7 @@ textarea::placeholder {
 
 /* Services START */
 .s-services {
+	background: #F9F9F9;
 	padding: 100px 0;
 }
 .services-row {
@@ -711,7 +712,7 @@ textarea::placeholder {
 /* Gallery START */
 .s-gallery {
 	padding: 100px 0;
-	background-color: #F9F9F9;
+	background-color: #FFF;
 }
 .gallery-wrap {
 	display: grid;
@@ -794,6 +795,7 @@ textarea::placeholder {
 
 /* Why START */
 .s-why {
+	background: #F9F9F9;
 	padding: 100px 0;
 }
 .why-row {
@@ -958,7 +960,7 @@ textarea::placeholder {
 /* Form START */
 .s-form {
 	padding: 80px 0;
-	background-color: #F9F9F9;
+	background-color: #FFF;
 }
 .form-row {
 	display: flex;
