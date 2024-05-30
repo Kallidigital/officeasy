@@ -262,7 +262,6 @@ textarea::placeholder {
 }
 .banner-subtitle {
 	font-size: 16px;
-	text-transform: uppercase;
 	margin-bottom: 10px;
 }
 .banner-title {
@@ -346,6 +345,7 @@ textarea::placeholder {
 /* About START */
 .s-about {
 	padding: 90px 0;
+	background-color: #F9F9F9;
 }
 .about-row {
 	display: flex;
@@ -407,7 +407,7 @@ textarea::placeholder {
 
 /* Services START */
 .s-services {
-	background: #F9F9F9;
+	background: #fff;
 	padding: 100px 0;
 }
 .services-row {
@@ -962,7 +962,7 @@ textarea::placeholder {
 /* Form START */
 .s-form {
 	padding: 80px 0;
-	background-color: #FFF;
+	background-color: #fff;
 }
 .form-row {
 	display: flex;
