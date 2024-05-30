@@ -258,7 +258,7 @@ textarea::placeholder {
 }
 .banner-content {
 	max-width: 750px;
-	margin: 0 auto;
+	margin: 65px auto;
 }
 .banner-subtitle {
 	font-size: 16px;
@@ -980,7 +980,7 @@ textarea::placeholder {
 }
 
 .form-right {
-	width: 425px;
+	width: 90%;
 }
 .form-right form {
 	background-color: #fff;
