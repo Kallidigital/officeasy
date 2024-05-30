@@ -163,7 +163,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 		if($(this).hasClass('is-active')) {
 			$(this).removeClass('is-active');
-			$(this).text('Show more');
+			$(this).text('Ver más');
 			galleryItem.each(function() {
 				if($(this).hasClass('is-active')) {
 					$(this).removeClass('is-active');
@@ -173,7 +173,7 @@ document.addEventListener('DOMContentLoaded', () => {
 		}
 		else {
 			$(this).addClass('is-active');
-			$(this).text('Hide');
+			$(this).text('Ver menos');
 			galleryItem.each(function() {
 				if(!$(this).is(':visible')) {
 					$(this).addClass('is-active');

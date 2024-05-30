@@ -51,6 +51,7 @@ textarea::placeholder {
 	position: relative;
 	margin-bottom: 25px;
 	line-height: 1.4;
+	color: #FF002C;
 }
 .def-title::before {
 	content: '';
@@ -67,6 +68,7 @@ textarea::placeholder {
 	color: #000;
 	text-align: center;
 	margin-bottom: 40px;
+	color: #FF002C;
 }
 .center-title::after {
 	content: '';
@@ -88,7 +90,7 @@ textarea::placeholder {
 	line-height: 1.9;
 }
 .def-desc strong {
-	color: #000;
+	color: #00043A;
 }
 
 .def-btn {
