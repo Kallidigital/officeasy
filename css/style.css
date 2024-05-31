@@ -94,7 +94,7 @@ textarea::placeholder {
 }
 
 .def-btn {
-	background-color: #FF002C;
+	background-color: #00043A;
 	padding: 15px 45px;
 	display: inline-block;
 	transition: background-color 0.35s ease;
@@ -102,7 +102,7 @@ textarea::placeholder {
 	color: #fff;
 }
 .def-btn:hover {
-	background-color: #C00022;
+	background-color: #002962;
 }
 
 /* Header START */
@@ -144,15 +144,15 @@ textarea::placeholder {
 .header-bottom {
 	position: absolute;
 	z-index: 2;
-	top: 30px;
+	top: 0px;
 	left: 50%;
 	transform: translateX(-50%);
-	max-width: 1200px;
-	width: 100%;
+	/*max-width: 1200px;*/
+	width: 103%;
 }
 .header-bottom-row {
 	display: flex;
-	background-color: #FF002C;
+	background-color: #00043A;
 	color: #fff;
 	box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.11);
 }
