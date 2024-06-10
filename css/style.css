@@ -343,7 +343,7 @@ textarea::placeholder {
 
 
 /* About START */
-.s-about {
+.nosotros {
 	padding: 90px 0;
 	background-color: #F9F9F9;
 }
@@ -351,7 +351,7 @@ textarea::placeholder {
 	display: flex;
 	align-items: center;
 }
-.s-about .def-desc {
+.nosotros .def-desc {
 	margin-bottom: 30px;
 }
 .about-left {
@@ -406,7 +406,7 @@ textarea::placeholder {
 
 
 /* Services START */
-.s-services {
+.productos {
 	background: #fff;
 	padding: 100px 0;
 }
@@ -1248,7 +1248,7 @@ textarea::placeholder {
 	.about-left {
 		margin: 0 auto 30px auto;
 	}
-	.s-about .def-desc {
+	.nosotros .def-desc {
 		margin-bottom: 20px;
 	}
 	.about-right {
@@ -1290,7 +1290,7 @@ textarea::placeholder {
 	/* Numbers 992 END */
 
 	/* Services 992 START */
-	.s-services {
+	.productos {
 		padding: 60px 0;
 	}
 	.services-row {
@@ -1533,7 +1533,7 @@ textarea::placeholder {
 	/* Banner 768 END */
 
 	/* About 768 START */
-	.s-about {
+	.nosotros {
 		padding: 45px 0;
 	}
 	/* About 768 END */
@@ -1652,7 +1652,7 @@ textarea::placeholder {
 	/* Banner 575 END */
 
 	/* About 575 START */
-	.s-about .def-btn {
+	.nosotros .def-btn {
 		display: block;
 		text-align: center;
 		max-width: 180px;
