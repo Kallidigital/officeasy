@@ -1709,7 +1709,7 @@ textarea::placeholder {
 	}
 	.form-right form input, 
 	.form-right form textarea {
-		font-size: 12px;
+		font-size: 20px;
 		margin-bottom: 20px;
 	}
 	/* Form 575 END */
