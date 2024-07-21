@@ -1023,14 +1023,6 @@ textarea::placeholder {
 # btn-wsp button
 --------------------------------------------------------------*/
 
-.btn-wsp{
-	line-height: 55px;
-	bottom: 30px;
-	border-radius: 50px;
-	text-align: center;
-	font-size: 30px;
-  }
-
 .btn-wsp {
 	position: fixed;
 	visibility: visible;
@@ -1042,29 +1034,32 @@ textarea::placeholder {
 	background: #26D366;
 	width: 60px;
 	height: 60px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 	transition: all 0.4s;
 	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.54);
-  }
-  
-  .btn-wsp i {
+}
+
+.btn-wsp i {
 	font-size: 28px;
 	color: #fff;
-	line-height: 0;
-  }
-  
-  .btn-wsp:hover {
+}
+
+.btn-wsp:hover {
 	background: #fff;
 	color: #26D366;
-  }
-  
-  .btn-wsp:hover i {
+}
+
+.btn-wsp:hover i {
 	color: #26D366;
-  }
-  
-  .btn-wsp.active {
+}
+
+.btn-wsp.active {
 	visibility: visible;
 	opacity: 1;
-  }
+}
+
 
 
 /* Footer START */
