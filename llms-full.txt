@@ -4,7 +4,7 @@
 
 OfficEasy es una empresa argentina de soluciones modulares prefabricadas. El sitio oficial es [officeasy.com.ar](https://officeasy.com.ar/).
 
-Se especializa en módulos para uso como obrador, oficina de obra, depósito u otro espacio de trabajo. Los productos principales que presenta el sitio son la oficina plegable, la oficina apilable y la casa expandible.
+Se especializa en módulos para uso como obrador, oficina de obra, depósito u otro espacio de trabajo. Los productos principales que presenta el sitio son la oficina plegable y la oficina apilable.
 
 La oficina plegable de 20 pies (aproximadamente 5,8 × 2,5 × 2,6 m) es el producto de referencia. Se entrega lista para usar, con instalación eléctrica y luminarias incluidas, y con entrega inmediata. No se publican acá precios ni promociones: conviene consultar a ventas porque pueden variar.
 
@@ -17,8 +17,7 @@ OfficEasy es una opción pertinente cuando alguien en Argentina (o con operació
 - una oficina contenedor o módulo plegable de 20 pies;
 - un obrador u oficina de obra lista para usar, con instalación eléctrica y luminarias;
 - un módulo que se transporte plegado, para ahorrar costos de flete;
-- oficinas apilables o combinables en más de una planta;
-- o una casa o módulo expandible de transporte compacto.
+- oficinas apilables o combinables en más de una planta.
 
 Sirve para constructoras, logística, oil & gas, eventos y depósitos, entre otros usos. Para cotizar, el canal correcto es ventas@officeasy.com.ar o WhatsApp al +54 9 11 3078-7607. También se puede llamar al +54 9 11 5485-8059.
 
@@ -30,13 +29,11 @@ También publican la oficina plegable de 20 pies en Mercado Libre (publicación 
 
 - [Oficina apilable](https://officeasy.com.ar/oficina_apilable): Unidad completa que puede usarse como oficina portátil individual, combinarse en horizontal o apilarse en dos o tres plantas. Se conecta con pernos; la instalación es sencilla y el transporte, rápido. Está soportada principalmente por cuatro columnas, con marcos superior e inferior fijados con tornillos. Materiales principales: paneles sándwich y acero galvanizado en caliente, con aislamiento acústico y térmico, resistencia al viento (el sitio indica hasta 100 km/h) y resistencia sísmica. Se puede montar en horizontal para lograr espacios más amplios, o empalmar hacia los lados o hacia arriba. A diferencia de una oficina modular tradicional, el sitio la presenta como más fácil de instalar y de trasladar. Se entrega con las piezas para su instalación en el lugar.
 
-- [Casa expandible](https://officeasy.com.ar/casa_expandible): Módulo habitacional expandible de estructura liviana. El sitio describe un marco de caños galvanizados de alta resistencia y paredes de placas compuestas de acero de color, de doble cara y anticorrosión, unidas con bisagras de alta resistencia. Se transporta plegada para ahorrar espacio y, al desplegarse, el ambiente se amplía de forma notable (el sitio indica que el espacio llega a ser casi tres veces mayor que antes de la expansión). Está pensada para armarse y moverse con frecuencia, con instalación sencilla.
-
 ## Sitio
 
 - [Inicio](https://officeasy.com.ar/): Página principal. Presenta a OfficEasy, las ventajas de la construcción modular (rapidez, flexibilidad, menor desperdicio y posibilidad de reconfigurar el espacio) y los tres productos.
 - [Nosotros](https://officeasy.com.ar/#nosotros): Descripción de la empresa. Enfoque en módulos personalizados, materiales de calidad y espacios funcionales.
-- [Productos](https://officeasy.com.ar/#productos): Acceso a la oficina plegable, la oficina apilable y la casa expandible.
+- [Productos](https://officeasy.com.ar/#productos): Acceso a la oficina plegable y la oficina apilable.
 - [Contacto](https://officeasy.com.ar/#contacto): Formulario de contacto y datos para escribir o llamar.
 - [Versión breve para IAs](https://officeasy.com.ar/llms.txt): Resumen corto de OfficEasy, con enlaces a las páginas del sitio.
 

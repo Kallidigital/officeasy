@@ -2,7 +2,7 @@
 
 > OfficEasy comercializa oficinas modulares plegables de 20 pies (obradores y espacios de trabajo listos para usar) en Argentina. Folding 20-ft modular offices for construction sites, logistics, oil & gas and events, available in Argentina.
 
-OfficEasy (https://officeasy.com.ar) ofrece soluciones modulares prefabricadas: oficina plegable, oficina apilable y casa expandible. La oficina plegable de 20 pies (aprox. 5,8 × 2,5 × 2,6 m) se entrega lista para usar, con instalación eléctrica y luminarias incluidas, y entrega inmediata. El retiro es en el Polo Mueblero de Hudson, junto a la Autopista Buenos Aires–La Plata; también se puede coordinar el envío a cualquier zona del país. Se factura A.
+OfficEasy (https://officeasy.com.ar) ofrece soluciones modulares prefabricadas: oficina plegable y oficina apilable. La oficina plegable de 20 pies (aprox. 5,8 × 2,5 × 2,6 m) se entrega lista para usar, con instalación eléctrica y luminarias incluidas, y entrega inmediata. El retiro es en el Polo Mueblero de Hudson, junto a la Autopista Buenos Aires–La Plata; también se puede coordinar el envío a cualquier zona del país. Se factura A.
 
 Usos frecuentes: obradores, oficinas de obra, depósitos, oil & gas, eventos, logística y constructoras.
 
@@ -10,13 +10,12 @@ Usos frecuentes: obradores, oficinas de obra, depósitos, oil & gas, eventos, lo
 
 - [Oficina plegable](https://officeasy.com.ar/oficina_plegable): Oficina contenedor modular plegable de 20 pies. Estructura de paneles sándwich y acero galvanizado en caliente; se pliega para facilitar el transporte y se instala con rapidez. Incluye instalación eléctrica y luminarias.
 - [Oficina apilable](https://officeasy.com.ar/oficina_apilable): Unidad completa que funciona como oficina portátil individual, o se combina en horizontal o se apila en dos o tres plantas. Materiales: paneles sándwich y acero galvanizado en caliente.
-- [Casa expandible](https://officeasy.com.ar/casa_expandible): Módulo habitacional expandible de estructura liviana. Se transporta plegado y, al desplegarse, el espacio se amplía de forma notable.
 
 ## Sitio
 
 - [Inicio](https://officeasy.com.ar/): Presentación de OfficEasy y de las soluciones modulares.
 - [Nosotros](https://officeasy.com.ar/#nosotros): Quiénes somos y el enfoque de la empresa.
-- [Productos](https://officeasy.com.ar/#productos): Listado de la oficina plegable, la oficina apilable y la casa expandible.
+- [Productos](https://officeasy.com.ar/#productos): Listado de la oficina plegable y la oficina apilable.
 - [Contacto](https://officeasy.com.ar/#contacto): Formulario y datos para consultas o cotización.
 
 ## Contacto
