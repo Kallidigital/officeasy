@@ -1,0 +1,90 @@
+<!--
+  JSON-LD para OfficEasy (schema.org).
+  Pegar este bloque justo antes de </head> en la home (index).
+  No incluye precios ni stock.
+  En las fichas de producto se puede usar, además, el recorte que está
+  más abajo en meta-tags.html (Product de esa página).
+-->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["Organization", "LocalBusiness"],
+      "@id": "https://officeasy.com.ar/#organizacion",
+      "name": "OfficEasy",
+      "alternateName": "Officeasy",
+      "url": "https://officeasy.com.ar/",
+      "logo": "https://officeasy.com.ar/images/logo_fondo_azul.png",
+      "image": "https://officeasy.com.ar/images/logo_fondo_azul.png",
+      "email": "ventas@officeasy.com.ar",
+      "telephone": ["+54-9-11-3078-7607", "+54-9-11-5485-8059"],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Polo Mueblero de Hudson, junto a la Autopista Buenos Aires-La Plata",
+        "addressLocality": "Hudson",
+        "addressRegion": "Buenos Aires",
+        "addressCountry": "AR"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Argentina"
+      },
+      "description": "OfficEasy comercializa oficinas modulares plegables de 20 pies, oficinas apilables y casas expandibles en Argentina. Entrega lista para usar, con instalación eléctrica y luminarias incluidas. Retiro en el Polo Mueblero de Hudson o envío coordinado a cualquier zona.",
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "sales",
+          "email": "ventas@officeasy.com.ar",
+          "telephone": "+54-9-11-3078-7607",
+          "areaServed": "AR",
+          "availableLanguage": ["es", "es-AR"]
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Soluciones modulares OfficEasy",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@id": "https://officeasy.com.ar/oficina_plegable#producto" } },
+          { "@type": "Offer", "itemOffered": { "@id": "https://officeasy.com.ar/oficina_apilable#producto" } },
+          { "@type": "Offer", "itemOffered": { "@id": "https://officeasy.com.ar/casa_expandible#producto" } }
+        ]
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://officeasy.com.ar/oficina_plegable#producto",
+      "name": "Oficina modular plegable de 20 pies",
+      "url": "https://officeasy.com.ar/oficina_plegable",
+      "image": "https://officeasy.com.ar/images/Plegable_miniatura.png",
+      "description": "Oficina contenedor modular plegable de 20 pies (aprox. 5,8 × 2,5 × 2,6 m), lista para usar, con instalación eléctrica y luminarias incluidas. Estructura de paneles sándwich y acero galvanizado en caliente. Ideal para obradores, oficinas de obra, logística, oil & gas y eventos.",
+      "brand": { "@id": "https://officeasy.com.ar/#organizacion" },
+      "category": "Oficina modular / obrador",
+      "material": "Paneles sándwich y acero galvanizado en caliente",
+      "size": "5,8 × 2,5 × 2,6 m (aprox., 20 pies)",
+      "countryOfOrigin": { "@type": "Country", "name": "Argentina" }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://officeasy.com.ar/oficina_apilable#producto",
+      "name": "Oficina modular apilable",
+      "url": "https://officeasy.com.ar/oficina_apilable",
+      "image": "https://officeasy.com.ar/images/portada_apilable.png",
+      "description": "Oficina contenedor apilable: unidad completa que se usa como oficina portátil individual, se combina en horizontal o se apila en dos o tres plantas. Paneles sándwich y acero galvanizado en caliente.",
+      "brand": { "@id": "https://officeasy.com.ar/#organizacion" },
+      "category": "Oficina modular apilable",
+      "material": "Paneles sándwich y acero galvanizado en caliente"
+    },
+    {
+      "@type": "Product",
+      "@id": "https://officeasy.com.ar/casa_expandible#producto",
+      "name": "Casa expandible modular",
+      "url": "https://officeasy.com.ar/casa_expandible",
+      "image": "https://officeasy.com.ar/images/Portada_expandible.png",
+      "description": "Casa o módulo habitacional expandible de estructura liviana. Se transporta plegada y, al desplegarse, el espacio se amplía de forma notable.",
+      "brand": { "@id": "https://officeasy.com.ar/#organizacion" },
+      "category": "Casa contenedor expandible"
+    }
+  ]
+}
+</script>
